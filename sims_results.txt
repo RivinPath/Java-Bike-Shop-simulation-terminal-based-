@@ -1,0 +1,33 @@
+Day: 1, Available Bikes: 50, Serviced Bikes: 0, Awaiting Pickup: 0, Cash: $15000
+Day: 2, Available Bikes: 47, Serviced Bikes: 0, Awaiting Pickup: 0, Cash: $18000
+Day: 3, Available Bikes: 47, Serviced Bikes: 0, Awaiting Pickup: 0, Cash: $18000
+Day: 4, Available Bikes: 47, Serviced Bikes: 1, Awaiting Pickup: 0, Cash: $18000
+Day: 5, Available Bikes: 44, Serviced Bikes: 2, Awaiting Pickup: 3, Cash: $21000
+Day: 6, Available Bikes: 43, Serviced Bikes: 2, Awaiting Pickup: 3, Cash: $22000
+Day: 7, Available Bikes: 43, Serviced Bikes: 2, Awaiting Pickup: 3, Cash: $21000
+Day: 8, Available Bikes: 42, Serviced Bikes: 2, Awaiting Pickup: 4, Cash: $22000
+Day: 9, Available Bikes: 41, Serviced Bikes: 4, Awaiting Pickup: 5, Cash: $23000
+Day: 10, Available Bikes: 41, Serviced Bikes: 4, Awaiting Pickup: 5, Cash: $23000
+Day: 11, Available Bikes: 49, Serviced Bikes: 4, Awaiting Pickup: 5, Cash: $20000
+Day: 12, Available Bikes: 48, Serviced Bikes: 4, Awaiting Pickup: 5, Cash: $21000
+Total Messages: 18
+Total Failures: 0
+Day: 1, Available Bikes: 50, Serviced Bikes: 0, Awaiting Pickup: 0, Cash: $15000
+Day: 2, Available Bikes: 45, Serviced Bikes: 1, Awaiting Pickup: 3, Cash: $20000
+FAILURE: Me=`SoEtFI->nL?j, tfngxf@ntu.qcw - Invalid message
+Day: 3, Available Bikes: 44, Serviced Bikes: 1, Awaiting Pickup: 4, Cash: $21000
+Day: 4, Available Bikes: 44, Serviced Bikes: 1, Awaiting Pickup: 2, Cash: $21000
+Total Messages: 10
+Total Failures: 1
+Day: 1, Available Bikes: 50, Serviced Bikes: 0, Awaiting Pickup: 0, Cash: $15000
+FAILURE: {{NN|<Q-z0ME,|Kh9M iix@ljvg.xaw - Invalid message
+FAILURE: PICK-UP iix@ljvg.xaw - No bikes ready for pickup for this customer
+FAILURE: PICK-UP shr@kav.pnp - No bikes ready for pickup for this customer
+FAILURE: $zro!gr>#4VaIL`nkPPO,FJ?/6vi shr@kav.pnp - Invalid message
+Day: 2, Available Bikes: 48, Serviced Bikes: 0, Awaiting Pickup: 2, Cash: $17000
+Day: 3, Available Bikes: 57, Serviced Bikes: 1, Awaiting Pickup: 2, Cash: $13000
+Day: 4, Available Bikes: 56, Serviced Bikes: 1, Awaiting Pickup: 2, Cash: $14000
+Day: 5, Available Bikes: 54, Serviced Bikes: 2, Awaiting Pickup: 2, Cash: $16000
+Day: 6, Available Bikes: 54, Serviced Bikes: 4, Awaiting Pickup: 1, Cash: $16000
+FAILURE: A - Invalid message
+Day: 7, Available Bikes: 53, Serviced Bikes: 4, Awaiting Pickup: 1, Cash: $16000

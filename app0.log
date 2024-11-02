@@ -1,0 +1,23 @@
+Nov 02, 2024 11:57:50 AM edu.curtin.oose2024s1.assignment2.simulation.BikeShopSimulation endOfDay
+INFO: d 1 bikes 50 service 0 pickup 0 cash 15000
+Nov 02, 2024 11:57:51 AM edu.curtin.oose2024s1.assignment2.simulation.BikeShopSimulation endOfDay
+INFO: d 2 bikes 48 service 0 pickup 2 cash 17000
+Nov 02, 2024 11:57:52 AM edu.curtin.oose2024s1.assignment2.simulation.BikeShopSimulation endOfDay
+INFO: d 3 bikes 57 service 1 pickup 2 cash 13000
+Nov 02, 2024 11:57:53 AM edu.curtin.oose2024s1.assignment2.simulation.BikeShopSimulation endOfDay
+INFO: d 4 bikes 56 service 1 pickup 2 cash 14000
+Nov 02, 2024 11:57:54 AM edu.curtin.oose2024s1.assignment2.simulation.BikeShopSimulation endOfDay
+INFO: d 5 bikes 54 service 2 pickup 2 cash 16000
+Nov 02, 2024 11:57:55 AM edu.curtin.oose2024s1.assignment2.simulation.BikeShopSimulation endOfDay
+INFO: d 6 bikes 54 service 4 pickup 1 cash 16000
+Nov 02, 2024 11:57:56 AM edu.curtin.oose2024s1.assignment2.simulation.BikeShopSimulation endOfDay
+INFO: d 7 bikes 53 service 4 pickup 1 cash 16000
+Nov 02, 2024 11:57:56 AM java.lang.Shutdown logRuntimeExit
+FINE: Runtime.exit() called with status: 143
+java.lang.Throwable: Runtime.exit(143)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Shutdown.java:179)
+	at java.base/java.lang.Shutdown.exit(Shutdown.java:160)
+	at java.base/java.lang.Terminator$1.handle(Terminator.java:51)
+	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
